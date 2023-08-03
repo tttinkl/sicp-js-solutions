@@ -134,7 +134,7 @@ function join_lists(lsts) {
   return iter(lsts, null);
 }
 
-/* -------------------------- main code ---------------------- */
+/* -------------------------- main code ----------------------- */
 /**
  * environment manipulate
  */
